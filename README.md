@@ -140,7 +140,7 @@ python detect_mask_video.py
 ## 👨‍💻 Author
 
 **Syed Aleem**  
-Final Year Project — 2025  
+Final Year Project — 2021  
 
 ---
 
